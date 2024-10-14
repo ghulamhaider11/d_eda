@@ -6,7 +6,6 @@ plotly
 scikit-learn
 numpy>=1.16.0,<2.2
 ydata-profiling
-streamlit-pandas-profiling
 joblib
 openpyxl
 pydantic>=2,<3
